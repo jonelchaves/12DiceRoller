@@ -1,0 +1,5 @@
+<resources>
+        <string name="app_name">Dice Roller</string>
+        <string name="roll">Roll</string>
+        <string name="tap_or_shake_to_roll">Tap image, button, or shake phone to roll</string>
+</resources>
